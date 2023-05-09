@@ -5,13 +5,13 @@
 }
 
 :root {
-    --orange: #F2C14E;
+    --white: #dbdbdb;
      --winning-blocks: #2d414b;
 
 }
 
 body{
-    color : var(--orange);
+    color : var(--white);
     font-family: 'Finger Paint', cursive;
 }
 
@@ -38,11 +38,12 @@ h1{
     display: flex;
     align-items: center;
     justify-content: center;
-    color: var(--orange);
+    color: red;
     font-size: 120px;
     border-right: 2px solid;
     border-bottom: 2px solid;
 }
+/* gaming board color and positioning*/
 
 #gameboard {
     width: 300px;
@@ -62,9 +63,9 @@ h1{
 button {
     padding: 10px 20px;
     border-radius: 10px;
-    background-color: var(--orange);
-    color: #333;
-    border-color: var(--orange);
+    background-color: var(--white);
+    color:black;
+    border-color:red;
     font-size: 18px;
     transition: 200ms transform;
     font-weight: 600;
@@ -74,3 +75,21 @@ button:hover {
     cursor: pointer;
     transform: translateY(-2px);
 }
+  /* for larger to medium screen size from 1200px wide and down */
+
+  @media screen and (max-width: 1200px) {
+    
+    #menu{
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+    .responsive{
+        width: 100%;
+        height:auto
+    }
+    
+}
+ 
