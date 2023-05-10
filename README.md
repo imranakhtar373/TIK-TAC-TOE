@@ -48,7 +48,7 @@ TIK-TAK-TOE is a mini-game created by the help of HTML,CSS,JAVASCRIPT.It is a mi
 
  + # Google Lighthouse
       + main page 
-      ![screenshot of lighthouse](/documents/Screenshot%202023-05-10%20at%20google%20lighthouse.png)
+      ![google light house](/documents/googlelighthouse.png)
 
      # Validator Testing
      + HTML[W3C.validator](https://validator.w3.org)
