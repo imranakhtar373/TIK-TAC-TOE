@@ -21,7 +21,7 @@ TIK-TAK-TOE is a mini-game created by the help of HTML,CSS,JAVASCRIPT.It is a mi
 
    ![screenshot of main gaming area](/documents/Screenshot%202023-05-10%20at%20main-page.png)
 
-   + ### Winner Predictor
+ + ### Winner Predictor
 
    When two player play this game and after the game one player is known as Winner his name is shown on the top and this game highlights his move where he placed his turn and how he won...
 
@@ -42,8 +42,8 @@ TIK-TAK-TOE is a mini-game created by the help of HTML,CSS,JAVASCRIPT.It is a mi
      + 1 JAVASCRIPT file(no BUGS and Errors)
 
 + # Google Lighthouse
-    + ![screenshot of google lighthouse](/documents/Screenshot%202023-05-10%20at%2016.24.33.png)
-   
+    
+   ![LIGHTHOUSE](/documents/Screenshot%202023-05-10%20at%2019.35.29.png)
 
 + # BUGS
 
