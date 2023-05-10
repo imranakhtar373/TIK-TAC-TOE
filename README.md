@@ -28,32 +28,36 @@ TIK-TAK-TOE is a mini-game created by the help of HTML,CSS,JAVASCRIPT.It is a mi
    ![screenshot of winner heading](/documents/Screenshot%202023-05-10%20at%20winnig%20message%20and%20indication.png)
 
 
-   # Color
-    I have basically used 2 colors Because these 2 are enough for elegent and graceful look.
-    + #000000 (Black)
-    + #FF0000 (Red)
++ # Color
 
-   # Testing
-     This project have 
+    I have basically used 2 colors Because these 2 are enough for elegent and graceful look.
+    #000000 (Black)
+    #FF0000 (Red)
+
++ # Testing
+
+     + This project have 
      + 1 HTML file(no BUGS)
      + 1 CSS file(no Errors)
      + 1 JAVASCRIPT file(no BUGS and Errors)
 
-     # BUGS
++ # BUGS
+
      In the testing of all the three languages which is used in making this milestone project (HTML/CSS/JAVASCRIPT)
-     there was no errors and bugs .
+     there was no errors and bugs.
+
+ + # Google Lighthouse
+      + main page 
+      ![screenshot of lighthouse](/documents/Screenshot%202023-05-10%20at%20google%20lighthouse.png)
 
      # Validator Testing
-     + HTML[W3C.validator](https://validator.w3.org/)
-     + CSS [Jigsaw.Validator](https://jigsaw.w3.org/)
+     + HTML[W3C.validator](https://validator.w3.org)
+     + CSS [Jigsaw.Validator](https://jigsaw.w3.org)
      + JS  [JSHINT.Validator](https://jshint.com)
 
 
-    # Google Lighhouse
-    + main Page
-    ![screenshot of lighthouse](/documents/Screenshot%202023-05-10%20at%20google%20lighthouse.png)
 
-     # Deployment
+ + ## Deployment
     + After completing the code went to github repositry.
     + Clicked on the setting in the manu of repositry named TIK-TAK-TOE.
     + Clicked on pages 
