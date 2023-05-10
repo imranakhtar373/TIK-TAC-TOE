@@ -41,23 +41,25 @@ TIK-TAK-TOE is a mini-game created by the help of HTML,CSS,JAVASCRIPT.It is a mi
      + 1 CSS file(no Errors)
      + 1 JAVASCRIPT file(no BUGS and Errors)
 
++ # Google Lighthouse
+    + ![screenshot of google lighthouse](/documents/Screenshot%202023-05-10%20at%2016.24.33.png)
+   
+
 + # BUGS
 
      In the testing of all the three languages which is used in making this milestone project (HTML/CSS/JAVASCRIPT)
      there was no errors and bugs.
 
- + # Google Lighthouse
-      + main page 
-      ![google light house](/documents/googlelighthouse.png)
+ 
 
-     # Validator Testing
++ # Validator Testing
      + HTML[W3C.validator](https://validator.w3.org)
      + CSS [Jigsaw.Validator](https://jigsaw.w3.org)
      + JS  [JSHINT.Validator](https://jshint.com)
 
 
 
- + ## Deployment
+ + # Deployment
     + After completing the code went to github repositry.
     + Clicked on the setting in the manu of repositry named TIK-TAK-TOE.
     + Clicked on pages 
@@ -66,3 +68,6 @@ TIK-TAK-TOE is a mini-game created by the help of HTML,CSS,JAVASCRIPT.It is a mi
     + press Save
     + AFter some minutes website link will be given
 
+
+
+[def]: /documents/Screenshot%202023-05-10%20at%2016.24.33.png
