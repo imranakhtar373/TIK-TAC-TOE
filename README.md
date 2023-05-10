@@ -11,4 +11,54 @@ TIK-TAK-TOE is a mini-game created by the help of HTML,CSS,JAVASCRIPT.It is a mi
 
  ## Existing Features
 
- 
+ + ### Restart Button 
+  + The opener page consists of a restart button which is located exact on the up of main game area when you press it gonna restart the whole game and refresh the game area.
+
+  ![screenshot of restart button](/documents/Screenshot%202023-05-10%20at%20restart%20button.png)
+
+  + ### Main Game Area
+   +  main game area consists of two figure formed verical lines which show the player selected area gaming area where two players plays .run and shows the result of winner.
+
+   ![screenshot of main gaming area](/documents/Screenshot%202023-05-10%20at%20main-page.png)
+
+   + ### Winner Predictor
+
+   When two player play this game and after the game one player is known as Winner his name is shown on the top and this game highlights his move where he placed his turn and how he won...
+
+   ![screenshot of winner heading](/documents/Screenshot%202023-05-10%20at%20winnig%20message%20and%20indication.png)
+
+
+   # Color
+    I have basically used 2 colors Because these 2 are enough for elegent and graceful look.
+    + #000000 (Black)
+    + #FF0000 (Red)
+
+   # Testing
+     This project have 
+     + 1 HTML file(no BUGS)
+     + 1 CSS file(no Errors)
+     + 1 JAVASCRIPT file(no BUGS and Errors)
+
+     # BUGS
+     In the testing of all the three languages which is used in making this milestone project (HTML/CSS/JAVASCRIPT)
+     there was no errors and bugs .
+
+     # Validator Testing
+     + HTML[W3C.validator](https://validator.w3.org/)
+     + CSS [Jigsaw.Validator](https://jigsaw.w3.org/)
+     + JS  [JSHINT.Validator](https://jshint.com)
+
+
+    # Google Lighhouse
+    + main Page
+    ![screenshot of lighthouse](/documents/Screenshot%202023-05-10%20at%20google%20lighthouse.png)
+
+     # Deployment
+    + After completing the code went to github repositry.
+    + Clicked on the setting in the manu of repositry named TIK-TAK-TOE.
+    + Clicked on pages 
+    + Then selected source (Deploy from Branches)
+    + From Branch select main and roots
+    + press Save
+    + AFter some minutes website link will be given
+
