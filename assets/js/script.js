@@ -1,13 +1,19 @@
+//Added Event Listener and logic of the game
+
 let playerText = document.getElementById('playerText');
 let restartBtn = document.getElementById('restartBtn');
 let boxes = Array.from(document.getElementsByClassName('box'));
 
 let winnerIndicator = getComputedStyle(document.body).getPropertyValue('--winning-blocks');
 
+/* Creating some Functionality of Two Players*/
+
 const O_TEXT = "O";
 const X_TEXT = "X";
 let currentPlayer = X_TEXT
 let spaces = Array(9).fill(null);
+
+/* function to start the game*/
 
 const startGame = () => {
     boxes.forEach(box => box.addEventListener('click', boxClicked))
@@ -53,6 +59,7 @@ function playerHasWon() {
     }
     return false
 };
+/* Repeat the functions on pressing Restart Button*/
 
 restartBtn.addEventListener('click', restart);
 
